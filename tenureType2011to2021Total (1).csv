@@ -1,0 +1,331 @@
+areaCode,areaName,tenureType,value
+E09000001,City of London 2011,Owned,1855
+E09000001,City of London 2011,Shared ownership,13
+E09000001,City of London 2011,Social rented,725
+E09000001,City of London 2011,Private rented,1573
+E09000001,City of London 2011,Lives rent free,219
+E09000002,Barking and Dagenham 2011,Owned,32324
+E09000002,Barking and Dagenham 2011,Shared ownership,906
+E09000002,Barking and Dagenham 2011,Social rented,23459
+E09000002,Barking and Dagenham 2011,Private rented,12328
+E09000002,Barking and Dagenham 2011,Lives rent free,664
+E09000003,Barnet 2011,Owned,78350
+E09000003,Barnet 2011,Shared ownership,1191
+E09000003,Barnet 2011,Social rented,19334
+E09000003,Barnet 2011,Private rented,34854
+E09000003,Barnet 2011,Lives rent free,2187
+E09000004,Bexley 2011,Owned,67154
+E09000004,Bexley 2011,Shared ownership,754
+E09000004,Bexley 2011,Social rented,13377
+E09000004,Bexley 2011,Private rented,10556
+E09000004,Bexley 2011,Lives rent free,763
+E09000005,Brent 2011,Owned,47324
+E09000005,Brent 2011,Shared ownership,1636
+E09000005,Brent 2011,Social rented,26591
+E09000005,Brent 2011,Private rented,33181
+E09000005,Brent 2011,Lives rent free,1554
+E09000006,Bromley 2011,Owned,92785
+E09000006,Bromley 2011,Shared ownership,1036
+E09000006,Bromley 2011,Social rented,18425
+E09000006,Bromley 2011,Private rented,17393
+E09000006,Bromley 2011,Lives rent free,1223
+E09000007,Camden 2011,Owned,31368
+E09000007,Camden 2011,Shared ownership,674
+E09000007,Camden 2011,Social rented,32295
+E09000007,Camden 2011,Private rented,31434
+E09000007,Camden 2011,Lives rent free,1763
+E09000008,Croydon 2011,Owned,85230
+E09000008,Croydon 2011,Shared ownership,1855
+E09000008,Croydon 2011,Social rented,25887
+E09000008,Croydon 2011,Private rented,30472
+E09000008,Croydon 2011,Lives rent free,1566
+E09000009,Ealing 2011,Owned,63420
+E09000009,Ealing 2011,Shared ownership,2174
+E09000009,Ealing 2011,Social rented,22472
+E09000009,Ealing 2011,Private rented,34182
+E09000009,Ealing 2011,Lives rent free,1834
+E09000010,Enfield 2011,Owned,69462
+E09000010,Enfield 2011,Shared ownership,1087
+E09000010,Enfield 2011,Social rented,21073
+E09000010,Enfield 2011,Private rented,26591
+E09000010,Enfield 2011,Lives rent free,1703
+E09000011,Greenwich 2011,Owned,43719
+E09000011,Greenwich 2011,Shared ownership,1580
+E09000011,Greenwich 2011,Social rented,34662
+E09000011,Greenwich 2011,Private rented,20004
+E09000011,Greenwich 2011,Lives rent free,1080
+E09000012,Hackney 2011,Owned,24179
+E09000012,Hackney 2011,Shared ownership,2374
+E09000012,Hackney 2011,Social rented,44430
+E09000012,Hackney 2011,Private rented,29449
+E09000012,Hackney 2011,Lives rent free,1258
+E09000013,Hammersmith and Fulham 2011,Owned,27397
+E09000013,Hammersmith and Fulham 2011,Shared ownership,1257
+E09000013,Hammersmith and Fulham 2011,Social rented,25133
+E09000013,Hammersmith and Fulham 2011,Private rented,25555
+E09000013,Hammersmith and Fulham 2011,Lives rent free,1248
+E09000014,Haringey 2011,Owned,39603
+E09000014,Haringey 2011,Shared ownership,1533
+E09000014,Haringey 2011,Social rented,27242
+E09000014,Haringey 2011,Private rented,32095
+E09000014,Haringey 2011,Lives rent free,1482
+E09000015,Harrow 2011,Owned,55001
+E09000015,Harrow 2011,Shared ownership,821
+E09000015,Harrow 2011,Social rented,8923
+E09000015,Harrow 2011,Private rented,18324
+E09000015,Harrow 2011,Lives rent free,1199
+E09000016,Havering 2011,Owned,71698
+E09000016,Havering 2011,Shared ownership,586
+E09000016,Havering 2011,Social rented,13799
+E09000016,Havering 2011,Private rented,10337
+E09000016,Havering 2011,Lives rent free,779
+E09000017,Hillingdon 2011,Owned,63011
+E09000017,Hillingdon 2011,Shared ownership,1280
+E09000017,Hillingdon 2011,Social rented,16752
+E09000017,Hillingdon 2011,Private rented,18141
+E09000017,Hillingdon 2011,Lives rent free,1030
+E09000018,Hounslow 2011,Owned,47562
+E09000018,Hounslow 2011,Shared ownership,2245
+E09000018,Hounslow 2011,Social rented,21682
+E09000018,Hounslow 2011,Private rented,22206
+E09000018,Hounslow 2011,Lives rent free,1207
+E09000019,Islington 2011,Owned,26564
+E09000019,Islington 2011,Shared ownership,1207
+E09000019,Islington 2011,Social rented,39342
+E09000019,Islington 2011,Private rented,25217
+E09000019,Islington 2011,Lives rent free,1226
+E09000020,Kensington and Chelsea 2011,Owned,28007
+E09000020,Kensington and Chelsea 2011,Shared ownership,700
+E09000020,Kensington and Chelsea 2011,Social rented,19271
+E09000020,Kensington and Chelsea 2011,Private rented,28108
+E09000020,Kensington and Chelsea 2011,Lives rent free,2450
+E09000021,Kingston upon Thames 2011,Owned,40762
+E09000021,Kingston upon Thames 2011,Shared ownership,434
+E09000021,Kingston upon Thames 2011,Social rented,7502
+E09000021,Kingston upon Thames 2011,Private rented,14312
+E09000021,Kingston upon Thames 2011,Lives rent free,629
+E09000022,Lambeth 2011,Owned,42885
+E09000022,Lambeth 2011,Shared ownership,1987
+E09000022,Lambeth 2011,Social rented,45619
+E09000022,Lambeth 2011,Private rented,38133
+E09000022,Lambeth 2011,Lives rent free,1393
+E09000023,Lewisham 2011,Owned,49228
+E09000023,Lewisham 2011,Shared ownership,1436
+E09000023,Lewisham 2011,Social rented,36052
+E09000023,Lewisham 2011,Private rented,28216
+E09000023,Lewisham 2011,Lives rent free,1159
+E09000024,Merton 2011,Owned,46689
+E09000024,Merton 2011,Shared ownership,671
+E09000024,Merton 2011,Social rented,11102
+E09000024,Merton 2011,Private rented,19503
+E09000024,Merton 2011,Lives rent free,792
+E09000025,Newham 2011,Owned,33822
+E09000025,Newham 2011,Shared ownership,1806
+E09000025,Newham 2011,Social rented,30092
+E09000025,Newham 2011,Private rented,34570
+E09000025,Newham 2011,Lives rent free,1229
+E09000026,Redbridge 2011,Owned,62983
+E09000026,Redbridge 2011,Shared ownership,1003
+E09000026,Redbridge 2011,Social rented,11289
+E09000026,Redbridge 2011,Private rented,22657
+E09000026,Redbridge 2011,Lives rent free,1173
+E09000027,Richmond upon Thames 2011,Owned,50750
+E09000027,Richmond upon Thames 2011,Shared ownership,601
+E09000027,Richmond upon Thames 2011,Social rented,10051
+E09000027,Richmond upon Thames 2011,Private rented,17440
+E09000027,Richmond upon Thames 2011,Lives rent free,993
+E09000028,Southwark 2011,Owned,35330
+E09000028,Southwark 2011,Shared ownership,2453
+E09000028,Southwark 2011,Social rented,52644
+E09000028,Southwark 2011,Private rented,28493
+E09000028,Southwark 2011,Lives rent free,1502
+E09000029,Sutton 2011,Owned,53152
+E09000029,Sutton 2011,Shared ownership,611
+E09000029,Sutton 2011,Social rented,11422
+E09000029,Sutton 2011,Private rented,12429
+E09000029,Sutton 2011,Lives rent free,560
+E09000030,Tower Hamlets 2011,Owned,24552
+E09000030,Tower Hamlets 2011,Shared ownership,2383
+E09000030,Tower Hamlets 2011,Social rented,40106
+E09000030,Tower Hamlets 2011,Private rented,32964
+E09000030,Tower Hamlets 2011,Lives rent free,1252
+E09000031,Waltham Forest 2011,Owned,48361
+E09000031,Waltham Forest 2011,Shared ownership,1018
+E09000031,Waltham Forest 2011,Social rented,21376
+E09000031,Waltham Forest 2011,Private rented,25102
+E09000031,Waltham Forest 2011,Lives rent free,1004
+E09000032,Wandsworth 2011,Owned,59393
+E09000032,Wandsworth 2011,Shared ownership,1911
+E09000032,Wandsworth 2011,Social rented,26516
+E09000032,Wandsworth 2011,Private rented,41317
+E09000032,Wandsworth 2011,Lives rent free,1356
+E09000033,Westminster 2011,Owned,32287
+E09000033,Westminster 2011,Shared ownership,885
+E09000033,Westminster 2011,Social rented,27348
+E09000033,Westminster 2011,Private rented,41949
+E09000033,Westminster 2011,Lives rent free,3303
+E09000001,City of London 2021,Owned,1794
+E09000001,City of London 2021,Shared ownership,12
+E09000001,City of London 2021,Social rented,1239
+E09000001,City of London 2021,Private rented,2373
+E09000001,City of London 2021,Lives rent free,5
+E09000002,Barking and Dagenham 2021,Owned,31319
+E09000002,Barking and Dagenham 2021,Shared ownership,23273
+E09000002,Barking and Dagenham 2021,Social rented,17990
+E09000002,Barking and Dagenham 2021,Private rented,1274
+E09000002,Barking and Dagenham 2021,Lives rent free,146
+E09000003,Barnet 2021,Owned,78307
+E09000003,Barnet 2021,Shared ownership,20034
+E09000003,Barnet 2021,Social rented,48705
+E09000003,Barnet 2021,Private rented,1633
+E09000003,Barnet 2021,Lives rent free,138
+E09000004,Bexley 2021,Owned,65417
+E09000004,Bexley 2021,Shared ownership,13977
+E09000004,Bexley 2021,Social rented,14578
+E09000004,Bexley 2021,Private rented,1263
+E09000004,Bexley 2021,Lives rent free,65
+E09000005,Brent 2021,Owned,45639
+E09000005,Brent 2021,Shared ownership,27876
+E09000005,Brent 2021,Social rented,42726
+E09000005,Brent 2021,Private rented,2246
+E09000005,Brent 2021,Lives rent free,171
+E09000006,Bromley 2021,Owned,93028
+E09000006,Bromley 2021,Shared ownership,17926
+E09000006,Bromley 2021,Social rented,23661
+E09000006,Bromley 2021,Private rented,1166
+E09000006,Bromley 2021,Lives rent free,47
+E09000007,Camden 2021,Owned,27507
+E09000007,Camden 2021,Shared ownership,31250
+E09000007,Camden 2021,Social rented,33012
+E09000007,Camden 2021,Private rented,715
+E09000007,Camden 2021,Lives rent free,274
+E09000008,Croydon 2021,Owned,83667
+E09000008,Croydon 2021,Shared ownership,27423
+E09000008,Croydon 2021,Social rented,39441
+E09000008,Croydon 2021,Private rented,2183
+E09000008,Croydon 2021,Lives rent free,283
+E09000009,Ealing 2021,Owned,61814
+E09000009,Ealing 2021,Shared ownership,23382
+E09000009,Ealing 2021,Social rented,45590
+E09000009,Ealing 2021,Private rented,2658
+E09000009,Ealing 2021,Lives rent free,313
+E09000010,Enfield 2021,Owned,63347
+E09000010,Enfield 2021,Shared ownership,20573
+E09000010,Enfield 2021,Social rented,35388
+E09000010,Enfield 2021,Private rented,1319
+E09000010,Enfield 2021,Lives rent free,296
+E09000011,Greenwich 2021,Owned,46827
+E09000011,Greenwich 2021,Shared ownership,35327
+E09000011,Greenwich 2021,Social rented,29108
+E09000011,Greenwich 2021,Private rented,2471
+E09000011,Greenwich 2021,Lives rent free,238
+E09000012,Hackney 2021,Owned,26066
+E09000012,Hackney 2021,Shared ownership,42945
+E09000012,Hackney 2021,Social rented,34147
+E09000012,Hackney 2021,Private rented,2664
+E09000012,Hackney 2021,Lives rent free,259
+E09000013,Hammersmith and Fulham 2021,Owned,26058
+E09000013,Hammersmith and Fulham 2021,Shared ownership,24231
+E09000013,Hammersmith and Fulham 2021,Social rented,29558
+E09000013,Hammersmith and Fulham 2021,Private rented,1208
+E09000013,Hammersmith and Fulham 2021,Lives rent free,157
+E09000014,Haringey 2021,Owned,39116
+E09000014,Haringey 2021,Shared ownership,26474
+E09000014,Haringey 2021,Social rented,37376
+E09000014,Haringey 2021,Private rented,1732
+E09000014,Haringey 2021,Lives rent free,393
+E09000015,Harrow 2021,Owned,52690
+E09000015,Harrow 2021,Shared ownership,9298
+E09000015,Harrow 2021,Social rented,26495
+E09000015,Harrow 2021,Private rented,1007
+E09000015,Harrow 2021,Lives rent free,152
+E09000016,Havering 2021,Owned,70379
+E09000016,Havering 2021,Shared ownership,13807
+E09000016,Havering 2021,Social rented,16019
+E09000016,Havering 2021,Private rented,976
+E09000016,Havering 2021,Lives rent free,95
+E09000017,Hillingdon 2021,Owned,61831
+E09000017,Hillingdon 2021,Shared ownership,17613
+E09000017,Hillingdon 2021,Social rented,28276
+E09000017,Hillingdon 2021,Private rented,1373
+E09000017,Hillingdon 2021,Lives rent free,135
+E09000018,Hounslow 2021,Owned,47044
+E09000018,Hounslow 2021,Shared ownership,21618
+E09000018,Hounslow 2021,Social rented,31788
+E09000018,Hounslow 2021,Private rented,2225
+E09000018,Hounslow 2021,Lives rent free,286
+E09000019,Islington 2021,Owned,25740
+E09000019,Islington 2021,Shared ownership,38787
+E09000019,Islington 2021,Social rented,30079
+E09000019,Islington 2021,Private rented,1580
+E09000019,Islington 2021,Lives rent free,310
+E09000020,Kensington and Chelsea 2021,Owned,21191
+E09000020,Kensington and Chelsea 2021,Shared ownership,18430
+E09000020,Kensington and Chelsea 2021,Social rented,26460
+E09000020,Kensington and Chelsea 2021,Private rented,676
+E09000020,Kensington and Chelsea 2021,Lives rent free,167
+E09000021,Kingston upon Thames 2021,Owned,35751
+E09000021,Kingston upon Thames 2021,Shared ownership,8390
+E09000021,Kingston upon Thames 2021,Social rented,12342
+E09000021,Kingston upon Thames 2021,Private rented,481
+E09000021,Kingston upon Thames 2021,Lives rent free,85
+E09000022,Lambeth 2021,Owned,46047
+E09000022,Lambeth 2021,Shared ownership,45566
+E09000022,Lambeth 2021,Social rented,32817
+E09000022,Lambeth 2021,Private rented,2715
+E09000022,Lambeth 2021,Lives rent free,221
+E09000023,Lewisham 2021,Owned,48143
+E09000023,Lewisham 2021,Shared ownership,34842
+E09000023,Lewisham 2021,Social rented,2823
+E09000023,Lewisham 2021,Private rented,2573
+E09000023,Lewisham 2021,Lives rent free,267
+E09000024,Merton 2021,Owned,41629
+E09000024,Merton 2021,Shared ownership,14177
+E09000024,Merton 2021,Social rented,18629
+E09000024,Merton 2021,Private rented,1194
+E09000024,Merton 2021,Lives rent free,117
+E09000025,Newham 2021,Owned,46834
+E09000025,Newham 2021,Shared ownership,40034
+E09000025,Newham 2021,Social rented,30461
+E09000025,Newham 2021,Private rented,1261
+E09000025,Newham 2021,Lives rent free,130
+E09000026,Redbridge 2021,Owned,62892
+E09000026,Redbridge 2021,Shared ownership,19805
+E09000026,Redbridge 2021,Social rented,27785
+E09000026,Redbridge 2021,Private rented,1389
+E09000026,Redbridge 2021,Lives rent free,180
+E09000027,Richmond upon Thames 2021,Owned,43783
+E09000027,Richmond upon Thames 2021,Shared ownership,7941
+E09000027,Richmond upon Thames 2021,Social rented,14332
+E09000027,Richmond upon Thames 2021,Private rented,763
+E09000027,Richmond upon Thames 2021,Lives rent free,123
+E09000028,Southwark 2021,Owned,45608
+E09000028,Southwark 2021,Shared ownership,44250
+E09000028,Southwark 2021,Social rented,31938
+E09000028,Southwark 2021,Private rented,3074
+E09000028,Southwark 2021,Lives rent free,214
+E09000029,Sutton 2021,Owned,49405
+E09000029,Sutton 2021,Shared ownership,11797
+E09000029,Sutton 2021,Social rented,15317
+E09000029,Sutton 2021,Private rented,874
+E09000029,Sutton 2021,Lives rent free,94
+E09000030,Tower Hamlets 2021,Owned,33616
+E09000030,Tower Hamlets 2021,Shared ownership,49100
+E09000030,Tower Hamlets 2021,Social rented,30563
+E09000030,Tower Hamlets 2021,Private rented,1683
+E09000030,Tower Hamlets 2021,Lives rent free,209
+E09000031,Waltham Forest 2021,Owned,52092
+E09000031,Waltham Forest 2021,Shared ownership,29557
+E09000031,Waltham Forest 2021,Social rented,24664
+E09000031,Waltham Forest 2021,Private rented,1781
+E09000031,Waltham Forest 2021,Lives rent free,174
+E09000032,Wandsworth 2021,Owned,54239
+E09000032,Wandsworth 2021,Shared ownership,30692
+E09000032,Wandsworth 2021,Social rented,49830
+E09000032,Wandsworth 2021,Private rented,2509
+E09000032,Wandsworth 2021,Lives rent free,184
+E09000033,Westminster 2021,Owned,25962
+E09000033,Westminster 2021,Shared ownership,26810
+E09000033,Westminster 2021,Social rented,41065
+E09000033,Westminster 2021,Private rented,695
+E09000033,Westminster 2021,Lives rent free,284
