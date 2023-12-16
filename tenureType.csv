@@ -1,4 +1,4 @@
-Lower tier local authorities Code,Lower tier local authorities,Tenure of household (9 categories) Code,Tenure of household (9 categories),Observation
+Code,LA,TenureCode,TenureType,Observation
 E09000001,City of London,-8,Does not apply,0
 E09000001,City of London,0,Owned: Owns outright,1114
 E09000001,City of London,1,Owned: Owns with a mortgage or loan,680
